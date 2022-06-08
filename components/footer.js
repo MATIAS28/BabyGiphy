@@ -14,7 +14,7 @@ export default function Footer (){
             <i className="icon ion-social-github"></i>
             </a>
             </div>
-            <h6 className="text-center gmail">matiasbolanos76@gmail.com</h6>
+            <h6 className="text-center gmail">matiasmunoz.dev@gmail.com</h6>
             <p className="copyright">Matias Muñoz © 2022</p>
         </footer>
         </div>
